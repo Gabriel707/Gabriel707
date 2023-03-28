@@ -1,6 +1,7 @@
 ### Hi there, good to see you here! 👋
-- 🔭 Currently working as a Senior Application Management Analyst
+- 🔭 Currently working as a Senior Application Support Analyst.
 - 🌱 Learning Python for API development with Django Framework, and PostGreSQL.
+-  Reach me on https://www.linkedin.com/in/gabrieldesantana11/
 
 <!--
 **Gabriel707/Gabriel707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
