@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, good to see you here! 👋
 - 🔭 Currently working as a Senior Application Management Analyst
 - 🌱 Learning Python for API development with Django Framework, and PostGreSQL.
 
