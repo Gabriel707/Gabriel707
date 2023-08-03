@@ -1,6 +1,6 @@
 ### Hi there, good to see you here! 👋
 - 🔭 Currently working as a Senior Application Support Analyst.
-- 🌱 Learning Python for Web Development with Django Framework, and PostgreSQL.
+- 🌱 Learning Python for Web Development with Django Framework, and SQL.
 - Post-gradution in progress (Computer Forensics)
 -  Reach me on https://www.linkedin.com/in/gabrieldesantana11/
 
