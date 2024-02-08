@@ -1,6 +1,11 @@
 ### Hi there, good to see you here! 👋
 - 🔭 Currently working as a Senior Application Support Analyst.
 - 🌱 Learning Java for Web Development.
+  JAVA
+  Spring
+  APIs
+  MySQL
+  
 - Post-gradution in progress (Computer Forensics)
 -  Reach me on https://www.linkedin.com/in/gabrieldesantana11/
 
