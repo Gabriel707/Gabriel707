@@ -2,7 +2,7 @@
 - 🔭 Currently working as a Senior Application Support Analyst.
 - 🌱 Learning Java for Web Development.
   JAVA
-  Spring
+  Python
   APIs
   MySQL
   
