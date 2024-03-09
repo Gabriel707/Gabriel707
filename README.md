@@ -1,6 +1,6 @@
 ### Hi there, good to see you here! 👋
 - 🔭 Currently working as a Senior Application Support Analyst.
-- 🌱 Learning Java for Web Development.
+- 🌱 Learning Python for Back-end Development.
   JAVA
   Python
   APIs
