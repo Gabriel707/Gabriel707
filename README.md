@@ -5,7 +5,9 @@
   Python
   APIs
   MySQL
-  
+
+- Software Engineer Student
+- Information Security Graduate
 - Post-gradution in progress (Computer Forensics)
 -  Reach me on https://www.linkedin.com/in/gabrieldesantana11/
 
