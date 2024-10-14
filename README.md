@@ -1,5 +1,5 @@
 ### Hi there, good to see you here! 👋
-- 🔭 Currently working as a Linux Application Analyst.
+- 🔭 Currently working as a Senior Application Support Analyst.
 - 🌱 Learning Java for Back-end Development.
   JAVA
   Python
