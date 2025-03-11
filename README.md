@@ -1,12 +1,10 @@
 ### Hi there, good to see you here! 👋
 - 🔭 Currently working as a Senior Application Support Analyst.
-- 🌱 Learning Python for Back-end Development.
-  Django
-  Flask
-  SQLAlchemy
+  Java
+  Spring
+  SQL
   Python
   APIs
-  MySQL
 
 - Software Engineer Student
 - Information Security Graduate
